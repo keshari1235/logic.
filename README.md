@@ -1,4 +1,4 @@
-import java.util.Scanner;
+imported java.util.Scanner;
 class AreaOfCircle
 {
 public static void main(String args[])
